@@ -1,24 +1,20 @@
-# Kora Solar ☀️ Website Redesign
+# Fundraising Landing Page ❤️ (GoFundMe-style sample)
 
-A modern, responsive redesign concept for a solar energy company website, designed and built by **Eniola** (freelance web designer & software engineer).
+A fast, mobile-first crowdfunding landing page concept, designed and built by **Eniola** (freelance web designer & software engineer).
 
 ## Features
 
-- 📱 Mobile-first layout with a collapsible menu
-- ☀️ Animated hero, counters and scroll-reveal sections
-- 🧮 Interactive savings calculator
-- 📝 Quote request form with validation (demo, does not send data)
-- ⚡ Single-file, no dependencies, instant load
+- 📱 Mobile-first layout with sticky donate button
+- 📈 Animated funding progress bar and live-style donor feed
+- 💳 Donation amount picker with impact tiers
+- ✨ Scroll-reveal sections, animated counters, FAQ accordion
+- ⚡ Single file, no dependencies, instant load
 
-## View it
+## Deploy
 
-Open `index.html` in any browser. To host it for free, enable **GitHub Pages** in the repo settings (Settings → Pages → Deploy from branch → `main` / root).
+Import this repo into Vercel (choose the `gofundme-landing` branch), or enable GitHub Pages. No build step needed.
 
-## Tech
-
-HTML · CSS · vanilla JavaScript
-
-> Testimonials, figures and savings estimates are sample content for the concept.
+> Campaign name, donors, testimonials and figures are sample content for the concept.
 
 ## Author
 
